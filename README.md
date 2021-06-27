@@ -1,2 +1,2 @@
 # Multiple Files Uploader
-Simple Multiple File Uploads with Progress Bar using JavaScript in PHP
+Simple Multiple File Uploader with Progress Bar using JavaScript and PHP
